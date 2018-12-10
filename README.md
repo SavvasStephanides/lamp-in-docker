@@ -8,14 +8,11 @@ Have Docker installed
 
 1. Clone this repository
 
-````
-git clone https://github.com/SavvasStephanides/docker-compose-lamp.git
-````
+````git clone https://github.com/SavvasStephanides/docker-compose-lamp.git````
 
 2. Go to `docker-compose-lamp` directory
 
-````
-cd docker-compose-lamp`
+````cd docker-compose-lamp````
 
 3. Run Docker Compose commands
 
