@@ -17,7 +17,6 @@ Have Docker installed
 3. Run Docker Compose commands
 
 ````
-docker-compose build
 docker-compose up
 ````
 
