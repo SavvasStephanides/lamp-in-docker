@@ -5,7 +5,7 @@ services:
       depends_on:
         - database
       ports:
-        - "8080:80"
+        - "80:80"
       restart: 'always'
       
     database:
@@ -17,3 +17,9 @@ services:
         MYSQL_PORT: 3306
       restart: 'always'
       hostname: database
+
+    adminer:
+      image: adminer
+      restart: always
+      ports:
+        - 8081:8080
