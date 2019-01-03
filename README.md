@@ -1,8 +1,8 @@
-# docker-compose file for LAMP stack
+# docker-compose file for Linux-Apache-MySQL-PHP stack
 
-## 🔧 Set up `docker-compose-lamp`
+## 🚀 Quickstart
 
-_Make sure you have Docker installed before proceeding_
+_Make sure you have Docker and Git installed before proceeding_
 
 ````
 # Clone this repository
@@ -15,8 +15,6 @@ cd docker-compose-lamp
 docker-compose up
 ````
 
-## 🔍 Check your site:
-
-Go to http://localhost from a browser. You should see a site starting with "Below are messages from MySQL:"
+To visit your site, go to http://localhost from a browser. You should see a site starting with "Below are messages from MySQL:"
 
 To access the Adminer database console, go to http://localhost:8081
