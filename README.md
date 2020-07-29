@@ -1,4 +1,4 @@
-# docker-compose file for Linux-Apache-MySQL-PHP stack
+# The LAMP stack in Docker containers
 
 ## 🚀 Quickstart
 
