@@ -6,10 +6,10 @@ _Make sure you have Docker and Git installed before proceeding_
 
 ````
 # Clone this repository
-git clone https://github.com/SavvasStephanides/docker-compose-lamp.git
+git clone https://github.com/SavvasStephanides/lamp-in-docker.git
 
 # Go to directory
-cd docker-compose-lamp
+cd lamp-in-docker
 
 # Run docker-compose
 docker-compose up
